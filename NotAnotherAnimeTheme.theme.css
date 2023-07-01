@@ -26,7 +26,7 @@
   /*
     Main Theme Color
   */
-  --main-theme-color: rgb(0, 0, 255);
+  --main-theme-color: rgb(200, 0, 0);
 
   /*
     Main Theme Transparency
@@ -36,7 +36,7 @@
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png);
+  --home-icon-image: url();
 
   /*
     Change your friends icon image position
@@ -72,7 +72,7 @@
   /*
     Server category hover color
   */
-  --category-hover-color: rgb(60, 202, 138);
+  --category-hover-color: rgb(255, 0, 0);
 
   /*
     Change the unread server animation.
@@ -83,7 +83,7 @@
   /*
     Video / Screen share buttons
   */
-  --video-screen-button-background-color: rgba(200, 200, 200, 0.2);
+  --video-screen-button-background-color: rgba(200, 0, 0, 0.2);
   --video-screen-button-foreground-color: white;
   --video-screen-button-background-hovor-color: rgba(200, 200, 200, 0.4);
   --video-screen-button-foreground-hovor-color: white;
@@ -182,9 +182,9 @@
   /*
     Channel colors
   */
-  --text-voice-channel-color: rgb(142, 146, 151);
-  --text-voice-channel-hover-color: #dcddde;
-  --text-voice-channel-selected-text-color: #fff;
+  --text-voice-channel-color: rgb(200, 0, 0);
+  --text-voice-channel-hover-color: rgb(200, 0, 0);
+  --text-voice-channel-selected-text-color: rgb(255, 0, 0);
   --unread-text-channel-color: #fff;
   --unread-text-channel-bubble-color: var(--main-theme-color);
 
