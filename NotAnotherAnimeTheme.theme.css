@@ -26,7 +26,7 @@
   /*
     Main Theme Color
   */
-  --main-theme-color: rgb(200, 0, 0);
+  --main-theme-color: rgb(165, 0, 0);
 
   /*
     Main Theme Transparency
@@ -72,7 +72,7 @@
   /*
     Server category hover color
   */
-  --category-hover-color: rgb(255, 0, 0);
+  --category-hover-color: rgb(220, 0, 0);
 
   /*
     Change the unread server animation.
@@ -83,9 +83,9 @@
   /*
     Video / Screen share buttons
   */
-  --video-screen-button-background-color: rgba(200, 0, 0, 0.2);
+  --video-screen-button-background-color: rgba(165, 0, 0, 0.2);
   --video-screen-button-foreground-color: white;
-  --video-screen-button-background-hovor-color: rgba(200, 0, 0, 0.4);
+  --video-screen-button-background-hovor-color: rgba(165, 0, 0, 0.4);
   --video-screen-button-foreground-hovor-color: white;
 
   /*
@@ -126,7 +126,7 @@
   /*
     Message Hover Buttons
   */
-  --message-hover-buttons-background: rgba(200, 0, 0, 0.1);
+  --message-hover-buttons-background: rgba(165, 0, 0, 0.1);
 
   /*
     Context Menu Transparency
@@ -136,20 +136,20 @@
   /*
     Add Server / Discovery Icon
   */
-  --add-discover-icon-transparency: rgba(200, 0, 0, 0.15);
+  --add-discover-icon-transparency: rgba(165, 0, 0, 0.15);
   --add-discover-icon-color: #43b581;
 
   /*
     Channel Limit Number Color
   */
   --channel-limit-count-color: var(--channels-default);
-  --channel-limit-background-left: rgba(200, 0, 0, 0.1);
-  --channel-limit-background-right: rgba(200, 0, 0, 0.2);
+  --channel-limit-background-left: rgba(165, 0, 0, 0.1);
+  --channel-limit-background-right: rgba(165, 0, 0, 0.2);
 
   /*
     Scrollbar Colors
   */
-  --scrollbar-color: rgba(200, 0, 0, 0.2);
+  --scrollbar-color: rgba(165, 0, 0, 0.2);
 
   /*
     Unread Message Divider
@@ -170,7 +170,7 @@
   --emoji-menu-sider-background-color: rgba(0, 0, 0, 0);
   --emoji-menu-server-header-background-color: rgba(0, 0, 0, 0.8);
   --emoji-menu-bottom-bar-background-color: black;
-  --emoji-menu-search-bar-background-color: rgba(200, 0, 0, 0.1);
+  --emoji-menu-search-bar-background-color: rgba(165, 0, 0, 0.1);
 
   /*
     Message Search
@@ -182,8 +182,8 @@
   /*
     Channel colors
   */
-  --text-voice-channel-color: rgb(200, 0, 0);
-  --text-voice-channel-hover-color: rgb(200, 0, 0);
+  --text-voice-channel-color: rgb(165, 0, 0);
+  --text-voice-channel-hover-color: rgb(220, 0, 0);
   --text-voice-channel-selected-text-color: #ff0000;
   --unread-text-channel-color: #ff0000;
   --unread-text-channel-bubble-color: var(--main-theme-color);
