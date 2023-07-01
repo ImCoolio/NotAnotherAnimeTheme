@@ -65,9 +65,9 @@
   /*
     Mention colors
   */
-  --mention-color: rgba(250, 166, 26, 0.05);
-  --mention-sider: rgba(250, 166, 26, 1);
-  --mention-hover-color: rgba(250, 166, 26, 0.08);
+  --mention-color: rgba(220, 0, 0, 0.05);
+  --mention-sider: rgba(220, 0, 0, 1);
+  --mention-hover-color: rgba(220, 0, 0, 0.08);
 
   /*
     Server category hover color
@@ -177,7 +177,7 @@
   */
   --message-search-menu-background-color: rgba(0, 0, 0, 0.8);
   --message-search-container-background-color: rgba(0, 0, 0, 0.6);
-  --message-search-result-background-color: rgba(200, 0, 0, 0.05);
+  --message-search-result-background-color: rgba(165, 0, 0, 0.05);
 
   /*
     Channel colors
