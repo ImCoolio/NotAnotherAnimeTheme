@@ -21,7 +21,7 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://resize.cdn.otakumode.com/ex/1600.900/u/2f5592b8544c48d18ce2d8cfa30ed85a.jpg);
+  --theme-background-image: url(https://image3.uhdpaper.com/wallpaper/jujutsu-kaisen-anime-characters-uhdpaper.com-4K-3.2776.jpg);
 
   /*
     Main Theme Color
@@ -184,8 +184,8 @@
   */
   --text-voice-channel-color: rgb(200, 0, 0);
   --text-voice-channel-hover-color: rgb(200, 0, 0);
-  --text-voice-channel-selected-text-color: rgb(255, 0, 0);
-  --unread-text-channel-color: #fff;
+  --text-voice-channel-selected-text-color: #ff0000;
+  --unread-text-channel-color: #ff0000;
   --unread-text-channel-bubble-color: var(--main-theme-color);
 
   /*
