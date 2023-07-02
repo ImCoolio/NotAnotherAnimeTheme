@@ -116,7 +116,7 @@
   /*
     Message Box Transparency
   */
-  --message-box-transparency: rgba(165, 0, 0, 0.6);
+  --message-box-transparency: rgba(165, 0, 0, 0.25);
 
   /*
     Embed Background Transparency
