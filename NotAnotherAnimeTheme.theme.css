@@ -121,7 +121,7 @@
   /*
     Embed Background Transparency
   */
-  --embed-background-transparency: rgba(165, 0, 0, 0.6);
+  --embed-background-transparency: rgba(165, 0, 0, 0.25);
 
   /*
     Message Hover Buttons
@@ -131,7 +131,7 @@
   /*
     Context Menu Transparency
   */
-  --context-menu-transparency: rgba(15, 15, 15, 0.8);
+  --context-menu-transparency: rgba(165, 0, 0, 0.55);
 
   /*
     Add Server / Discovery Icon
